@@ -12,7 +12,6 @@
     "fluent-ffmpeg": "^2.0.0-rc3",
     "moment": "*",
     "promises": "^0.2.5",
-    "pully": "^1.0.3",
     "q": "^1.1.2",
     "youtube-node": "^1.1.2",
     "ytdl-core": "*"
