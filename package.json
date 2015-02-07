@@ -2,7 +2,7 @@
   "name": "crowdblare-edison",
   "description": "CrowdBlare Edison",
   "version": "0.0.1",
-  "main": "main.js",
+  "main": "boot.js",
   "engines": {
     "node": ">=0.10.0"
   },
