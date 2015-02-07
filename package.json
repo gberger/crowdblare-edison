@@ -13,7 +13,8 @@
     "moment": "*",
     "promises": "^0.2.5",
     "pully": "^1.0.3",
+    "q": "^1.1.2",
     "youtube-node": "^1.1.2",
-    "ytdl": "^0.3.4"
+    "ytdl-core": "*"
   }
 }
