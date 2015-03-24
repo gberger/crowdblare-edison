@@ -1,3 +1,3 @@
-# crowdblare-edison
+# crowdbox-edison
 
 TODO: Write me.
