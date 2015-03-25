@@ -24,6 +24,7 @@ Cylon
         };
         if (err != null) {
           console.log("Error sending analog sensor information: " + err);
+        
         }
       }
     }, 2000);
